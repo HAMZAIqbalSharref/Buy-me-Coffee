@@ -28,6 +28,3 @@ This is a Coffee Shop Landing Page created as part of a front-end web design pra
 
 📍Project Purpose
 * This project demonstrates skills in responsive web design, layout composition, and visual hierarchy suitable for a café or restaurant landing page.
-
-
-This project demonstrates skills in responsive web design, layout composition, and visual hierarchy suitable for a café or restaurant landing page.
